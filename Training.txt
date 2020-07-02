@@ -6,6 +6,7 @@ GFS
 Cloudera
 BigData
 PHP 
-
+Java
+DJango
 
 Thankyou!
